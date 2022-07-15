@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Thoelen III</title>
+    <link>https://rthoelen.github.io/</link>
+      <atom:link href="https://rthoelen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Thoelen III</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rthoelen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Robert Thoelen III</title>
+      <link>https://rthoelen.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://rthoelen.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://rthoelen.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://rthoelen.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://rthoelen.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://rthoelen.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Databases to Improve Society</title>
+      <link>https://rthoelen.github.io/publication/gn-essay-databases/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/publication/gn-essay-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://rthoelen.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guest Column on Amateur Radio NXDN</title>
+      <link>https://rthoelen.github.io/publication/amateur-nxdn-article/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/publication/amateur-nxdn-article/</guid>
+      <description>&lt;p&gt;As printed in the Journal:&lt;/p&gt;
+&lt;p&gt;NXDN is a Common Air Interface(CAI) that is part of a consortium of companies. Kenwood and Icom are major players, although there are other companies that also produce products. NXDN uses Frequency Division Multiple Access (FDMA), and uses either 6.25khz or 12.5khz of bandwidth. One advantage for amateur radio use of NXDN is Icom and Kenwood repeaters can be used in “mixed-mode”, meaning that traditional analog FM at 12.5khz can be used to allow for legacy equipment. In our testing, we have found mixed-mode works very well, and can be a draw to get legacy users running digital, without having to immediately buy a digital radio. Also, in situations where analog capability is expected for emergency purposes, users can just program a channel on their digital radios for analog use. Another consideration in deploying an NXDN repeater is that it is not compatible with other C4FM modes on the market, such as Yaesu Fusion and dPMR.&lt;/p&gt;
+&lt;p&gt;Activity on the linked NXDN system is found in a handful of areas in the United States, with large concentrations in Connecticut, Florida, and Massachusetts. We have a few repeaters up in Canada linked in with us also. NXDN tends to be a niche mode for those who want to experiment with a true 6.25khz bandwidth. Also, there is opportunity to experiment and develop more software for amateur use on this platform.&lt;/p&gt;
+&lt;p&gt;Linking to the amateur radio NXDN network is achieved in a few different ways. Two software programs exist for linking multiple repeaters together. The first is NXREF, written by Alan, W7QO. This program supports a talkgroup (65000) which is used as a “worldwide” group. The second program NXCore, is written by Bob, N1XDN, and allows for multiple talkgroups. Multiple groups help in situations where there are many repeaters covering a smaller area, which helps with spectral efficiency. For example, we use talkgroup 9001 as our “Connecticut only” group, which will allow for local conversations over several repeaters in a state without causing traffic on the entire network. NXREF is compiled for Raspberry Pi and has worked on Beaglebone boards in the past. NXCore source is published on Github and should run on any Linux-based system, in addition to Cygwin on a Windows system.&lt;/p&gt;
+&lt;p&gt;Kenwood and Icom both use the NXDN CAI over the air, but their internet linking is different. Both send data packets in a UDP stream, but the data in the packet and the ports are different for each manufacturer. This has led to regions typically choosing one brand of repeater for each to stay consistent and be linkable. Alan, W7QO, maintains a reflector which converts between the Icom and Kenwood protocols, tying the Kenwood and Icom repeaters together, so that every repeater at least has access to talkgroup 65000.&lt;/p&gt;
+&lt;p&gt;Some real-world benefits we have seen as a group of repeater owners is the extended range from the 6.25khz bandwidth. The stated improvement in range is 30% more coverage than an analog FM channel. The audio quality is considered by many of our users (myself included) to be superior to other modes. NXDN, as with other digital modes, does not get “picket fencing” and other effects that would be heard on analog. Rather, a user in the radio system is either in 100%, a little garbled, or not heard at all. NXDN uses FEC (Forward Error Correction), so slight losses in decoding are hardly noticed or not at all. Another benefit is that in the cramped conditions on our amateur frequencies, especially 2 meters, the 6.25khz bandwidth helps a repeater “fit” into a band plan where it otherwise would not. In an area where there are no 25Khz allocations left for repeater coordination, often a spot can be found. NXDN allows for the use of RAN (Radio Access Number) codes, which work similar to “Color Codes” in DMR and PL tones in analog mode. As such, many of us believe that a whole area could be covered with two or three 6.25khz channels, and RAN codes could be used to keep from keying up a more distant repeater on the same frequency.&lt;/p&gt;
+&lt;p&gt;Drawbacks to adoption of NXDN include: radios are a bit more expensive than other modes, clubs do not seem to have as much interest in deploying a mixed-mode system, and the smaller user base. The radios from Icom and Kenwood are constructed well and are built well, so many in our system don’t mind paying a little more for something very rugged and well tested. The smaller user base does mean that the system is not as active as other digital modes, but many that I’ve talked to on NXDN believe our focus should be on network quality and the strengths that the 6.25khz bandwidth has to offer.&lt;/p&gt;
+&lt;p&gt;To summarize, I believe that NXDN is a niche mode that is not going to attract every ham radio operator, but it does provide a mature platform that is tested in the commercial market. NXDN provides excellent audio quality in a true 6.25khz channel. Equipment has been available for about 8 years now, and the secondary markets, such as Ebay, are starting to have radios for about 25-30% of what it would cost to purchase new. There is a small, but very loyal and committed user base that is interested in this mode long-term. Some websites to visit for more information on NXDN include &lt;a href=&#34;http://www.nxdninfo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxdninfo.com&lt;/a&gt;, &lt;a href=&#34;http://www.nxdnradio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxdnradio.com&lt;/a&gt;, and &lt;a href=&#34;http://www.nxmanager.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxmanager.net&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NXCM</title>
+      <link>https://rthoelen.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;NXCM is a project designed to link Kenwood and Icom repeaters across the Internet for amateur radio usage.  Currently connecting Kenwood to Kenwood and Icom to Icom is supported.  The software allows for multiple talkgroups to be utilized, and each repeater to choose which talkgroups it is subscribed to.&lt;/p&gt;
+&lt;p&gt;Source code for the project can be found at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kenwood - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Kenwood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Kenwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Icom - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Icom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Icom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Settings for an Edgerouter on a Home Network</title>
+      <link>https://rthoelen.github.io/post/erl-household/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/post/erl-household/</guid>
+      <description>&lt;h2 id=&#34;how-to-tune-a-ubiquti-edgerouter-for-minimum-latency&#34;&gt;How to tune a Ubiquti Edgerouter for minimum latency&lt;/h2&gt;
+&lt;p&gt;I currently have a 60mbit/sec download, 15mbit/sec upload speed on Cox Business Internet.  These settings I will give will probably work on most Cox Internet plans. I am using an EdgeRouter by Ubiquiti Networks, and have enabled “Active Queue Management”, which uses the “fq_codel” algorithm.  With this enabled, I can be using a VoIP phone, doing Remote Desktop, and uploading files without having line quality issues with latency.
+&lt;br/&gt;
+Here is the relevant section of code in the router configuration:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;show traffic-control
+ smart-queue wan {
+ upload {
+ ecn disable
+ flows 1024
+ fq-quantum 300
+ htb-quantum 3000
+ limit 600
+ rate 16000kbit
+ target 12ms
+ }
+ wan-interface eth0
+ }
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above code is the result of going into the router command line, and in the configuration, typing “show traffic-control” as you see in the first line.
+&lt;br/&gt;
+Line by line, here is what we are doing:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ecn disable&lt;/strong&gt; – This is to actually cause packets sitting in the queue for too long to be dropped.  We want to do this as a means of flow control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;flows&lt;/strong&gt; – set to 1024, which is the default.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fq-quantum&lt;/strong&gt; – set to 300, which is recommended by other sources (I’ll credit them at the bottom of the post) for links under 40mbit/second.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;htb-quantum&lt;/strong&gt; – set to 3000, which is slightly higher than I’ve seen elsewhere, but I think it strikes a balance between the two numbers I’ve seen for slow and fast links.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;limit&lt;/strong&gt; – set to 600 which is a recommended value from other sources&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rate&lt;/strong&gt; – set to 16000kbit, which is slightly faster than my promised upload speed of 15000kbit/sec.  I set this value based on increasing it until the latency looks like it is getting over 20-30ms consistently.  Remember an ISP many times over provisions a bit so that a speed test will show a bit better than what you are paying for.  Trying to set this value to the exact speed I’m supposed to get reduces throughput to about 12-13mbit/sec, and I’m not seeing any advantage to that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;target&lt;/strong&gt; – set to 12ms.  This value I’ve had to play around with a little bit.  The default is 5ms, but in a cable modem system, the first hop can be about 8-10ms away, and the fq_codel algorithm can’t seem to keep the bufferbloat latency below about 8-10ms anyway.  Some sources recommend measuring ping times to the next hop under load and setting the target to this.  I’ve heard of others setting to around 20ms.  I would suggest that your results may vary, so this may be highly dependent on your particular installation.&lt;/p&gt;
+&lt;p&gt;Also note in my situation I’ve only enabled smart queue management on my upload path, not the download path as well.  I’ve tried setting both, but there are two concerns.  The EdgeRouter Lite gets just about to its limit with these speeds (most sources say anything over 60mbit/sec is going to be a problem).  Also, there isn’t as much control since the modem decides what packets to send to the router on the downstream side.  I find the download path doesn’t seem to be affected much by smart queue management, and I don’t want the CPU running close to 100% with a high download.  Setting the queue management on only the upload side is well within what the router can process at 15mbit/sec, so I’m leaving the settings there.&lt;/p&gt;
+&lt;br/&gt;
+### Additional links
+[Speed test / bufferbloat test site:](http://dslreports.com/speedtest)
+&lt;p&gt;&lt;a href=&#34;https://www.bufferbloat.net/projects/codel/wiki/Best_practices_for_benchmarking_Codel_and_FQ_Codel/#tuning-codel-for-circumstances-it-wasn-t-designed-for&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source for initial tuning parameters&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommended Readings on Christianity and Science</title>
+      <link>https://rthoelen.github.io/post/recommended-reading/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/post/recommended-reading/</guid>
+      <description>&lt;h2 id=&#34;free-software--digital-issues&#34;&gt;Free Software / Digital Issues&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Free Software, Free Society&lt;/strong&gt;, Richard Stallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Free as in Freedom (2.0)&lt;/strong&gt;, Richard Stallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Future of Ideas&lt;/strong&gt;, Lawrence Lessig&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(VIDEO) Revolution OS&lt;/strong&gt;, produced by Wonderview Productions&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;control-theory--engineering&#34;&gt;Control Theory / Engineering&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Chance and Chaos&lt;/strong&gt;, David Ruelle&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Control Systems&lt;/strong&gt;, Farid Golnaraghi and Benjamin C. Kuo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Control System Design: An Introduction to State-Space Methods&lt;/strong&gt;, Bernard Friedland&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;radiotransmission-theory&#34;&gt;Radio/Transmission Theory&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;The ARRL Antenna Book&lt;/strong&gt;, American Radio Relay League&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information, Modulation, Transmission, and Noise&lt;/strong&gt;, Mischa Schwartz&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;computer-science--software-engineering&#34;&gt;Computer Science / Software Engineering&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to Algorithms, Second Edition&lt;/strong&gt;, Thomas H. Kormen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Mythical Man-Month&lt;/strong&gt;, Fred Brooks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Deadline: A Novel about Project Management&lt;/strong&gt;, Tom DeMarco&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Phoenix Project&lt;/strong&gt;, Gene Kim, Kevin Behr, George Spafford&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;historical-fiction&#34;&gt;Historical Fiction&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;A Madman Dreams of Turing Machines&lt;/strong&gt;, Janna Levin&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-classics&#34;&gt;Christianity: Classics&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Pilgrim&amp;rsquo;s Progress&lt;/strong&gt;, John Bunyan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Hiding Place&lt;/strong&gt;, Corrie Ten Boom&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Autobiography of Madame Guyon&lt;/strong&gt;, Jeanne Marie Bouvières de la Mothe Guyon&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Didache&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tortured for Christ&lt;/strong&gt;, Richard Wurmbrand&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Through Gates of Splendor&lt;/strong&gt;, Elizabeth Elliot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Autobiography of George Muller&lt;/strong&gt;, George Muller&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Areopagitica&lt;/strong&gt;, John Milton&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-science--christian-thought--philosophy&#34;&gt;Christianity: Science / Christian Thought / Philosophy&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;The Scandal of the Evangelical Mind&lt;/strong&gt;, Mark Noll&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jesus Christ and the Life of the Mind&lt;/strong&gt;, Mark Noll&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Mind for God&lt;/strong&gt;, James Emery White&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Universe Next Door&lt;/strong&gt;, James W. Sire&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Creation and Complexity: Interdisciplinary Issues in Science and Religion&lt;/strong&gt;, Christine Ledger and Stephen Pickard&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Putting it All Together&lt;/strong&gt;, Richard H. Bube&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On Mental Education (contained in Experimental Researches in Chemistry and Physics (1859))&lt;/strong&gt;, Michael Faraday&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Letter to the Grand Duchess Christina (1615)&lt;/strong&gt;, Galileo Galilei&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Harmonice Mundi(The Harmony of the World) (1619)&lt;/strong&gt;, Johannes Kepler&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test of Faith(VIDEO), Various Contributors&lt;/strong&gt;, published by WIPF and Stock Publishers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wise Stewards: Philosophical Foundations of Christian Parenting&lt;/strong&gt;, Michael W. Austin&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-theodicychristian-counselingpastoral-theology&#34;&gt;Christianity: Theodicy/Christian Counseling/Pastoral Theology&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;When Suffering Persists&lt;/strong&gt;, Frederick Schmidt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God and Human Suffering&lt;/strong&gt;, Douglas John Hall&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When Bad Things Happen to Good People&lt;/strong&gt;, Harold Kushner&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Little Exercise for Young Theologians&lt;/strong&gt;, Helmut Thielicke&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes That Heal&lt;/strong&gt;, Henry Cloud and John Townsend&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Practical Psychology for Pastors&lt;/strong&gt;, William Miller and Kathleen Jackson&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wise Stewards: Philosophical Foundations of Christian Parenting&lt;/strong&gt;, Michael W. Austin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

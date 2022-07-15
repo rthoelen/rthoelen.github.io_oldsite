@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networking | Robert Thoelen III</title>
+    <link>https://rthoelen.github.io/tag/networking/</link>
+      <atom:link href="https://rthoelen.github.io/tag/networking/index.xml" rel="self" type="application/rss+xml" />
+    <description>networking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rthoelen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>networking</title>
+      <link>https://rthoelen.github.io/tag/networking/</link>
+    </image>
+    
+    <item>
+      <title>Settings for an Edgerouter on a Home Network</title>
+      <link>https://rthoelen.github.io/post/erl-household/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/post/erl-household/</guid>
+      <description>&lt;h2 id=&#34;how-to-tune-a-ubiquti-edgerouter-for-minimum-latency&#34;&gt;How to tune a Ubiquti Edgerouter for minimum latency&lt;/h2&gt;
+&lt;p&gt;I currently have a 60mbit/sec download, 15mbit/sec upload speed on Cox Business Internet.  These settings I will give will probably work on most Cox Internet plans. I am using an EdgeRouter by Ubiquiti Networks, and have enabled “Active Queue Management”, which uses the “fq_codel” algorithm.  With this enabled, I can be using a VoIP phone, doing Remote Desktop, and uploading files without having line quality issues with latency.
+&lt;br/&gt;
+Here is the relevant section of code in the router configuration:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;show traffic-control
+ smart-queue wan {
+ upload {
+ ecn disable
+ flows 1024
+ fq-quantum 300
+ htb-quantum 3000
+ limit 600
+ rate 16000kbit
+ target 12ms
+ }
+ wan-interface eth0
+ }
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above code is the result of going into the router command line, and in the configuration, typing “show traffic-control” as you see in the first line.
+&lt;br/&gt;
+Line by line, here is what we are doing:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ecn disable&lt;/strong&gt; – This is to actually cause packets sitting in the queue for too long to be dropped.  We want to do this as a means of flow control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;flows&lt;/strong&gt; – set to 1024, which is the default.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fq-quantum&lt;/strong&gt; – set to 300, which is recommended by other sources (I’ll credit them at the bottom of the post) for links under 40mbit/second.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;htb-quantum&lt;/strong&gt; – set to 3000, which is slightly higher than I’ve seen elsewhere, but I think it strikes a balance between the two numbers I’ve seen for slow and fast links.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;limit&lt;/strong&gt; – set to 600 which is a recommended value from other sources&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rate&lt;/strong&gt; – set to 16000kbit, which is slightly faster than my promised upload speed of 15000kbit/sec.  I set this value based on increasing it until the latency looks like it is getting over 20-30ms consistently.  Remember an ISP many times over provisions a bit so that a speed test will show a bit better than what you are paying for.  Trying to set this value to the exact speed I’m supposed to get reduces throughput to about 12-13mbit/sec, and I’m not seeing any advantage to that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;target&lt;/strong&gt; – set to 12ms.  This value I’ve had to play around with a little bit.  The default is 5ms, but in a cable modem system, the first hop can be about 8-10ms away, and the fq_codel algorithm can’t seem to keep the bufferbloat latency below about 8-10ms anyway.  Some sources recommend measuring ping times to the next hop under load and setting the target to this.  I’ve heard of others setting to around 20ms.  I would suggest that your results may vary, so this may be highly dependent on your particular installation.&lt;/p&gt;
+&lt;p&gt;Also note in my situation I’ve only enabled smart queue management on my upload path, not the download path as well.  I’ve tried setting both, but there are two concerns.  The EdgeRouter Lite gets just about to its limit with these speeds (most sources say anything over 60mbit/sec is going to be a problem).  Also, there isn’t as much control since the modem decides what packets to send to the router on the downstream side.  I find the download path doesn’t seem to be affected much by smart queue management, and I don’t want the CPU running close to 100% with a high download.  Setting the queue management on only the upload side is well within what the router can process at 15mbit/sec, so I’m leaving the settings there.&lt;/p&gt;
+&lt;br/&gt;
+### Additional links
+[Speed test / bufferbloat test site:](http://dslreports.com/speedtest)
+&lt;p&gt;&lt;a href=&#34;https://www.bufferbloat.net/projects/codel/wiki/Best_practices_for_benchmarking_Codel_and_FQ_Codel/#tuning-codel-for-circumstances-it-wasn-t-designed-for&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source for initial tuning parameters&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

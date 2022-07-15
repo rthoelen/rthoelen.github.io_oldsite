@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NXDN | Robert Thoelen III</title>
+    <link>https://rthoelen.github.io/tag/nxdn/</link>
+      <atom:link href="https://rthoelen.github.io/tag/nxdn/index.xml" rel="self" type="application/rss+xml" />
+    <description>NXDN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rthoelen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>NXDN</title>
+      <link>https://rthoelen.github.io/tag/nxdn/</link>
+    </image>
+    
+    <item>
+      <title>Guest Column on Amateur Radio NXDN</title>
+      <link>https://rthoelen.github.io/publication/amateur-nxdn-article/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/publication/amateur-nxdn-article/</guid>
+      <description>&lt;p&gt;As printed in the Journal:&lt;/p&gt;
+&lt;p&gt;NXDN is a Common Air Interface(CAI) that is part of a consortium of companies. Kenwood and Icom are major players, although there are other companies that also produce products. NXDN uses Frequency Division Multiple Access (FDMA), and uses either 6.25khz or 12.5khz of bandwidth. One advantage for amateur radio use of NXDN is Icom and Kenwood repeaters can be used in “mixed-mode”, meaning that traditional analog FM at 12.5khz can be used to allow for legacy equipment. In our testing, we have found mixed-mode works very well, and can be a draw to get legacy users running digital, without having to immediately buy a digital radio. Also, in situations where analog capability is expected for emergency purposes, users can just program a channel on their digital radios for analog use. Another consideration in deploying an NXDN repeater is that it is not compatible with other C4FM modes on the market, such as Yaesu Fusion and dPMR.&lt;/p&gt;
+&lt;p&gt;Activity on the linked NXDN system is found in a handful of areas in the United States, with large concentrations in Connecticut, Florida, and Massachusetts. We have a few repeaters up in Canada linked in with us also. NXDN tends to be a niche mode for those who want to experiment with a true 6.25khz bandwidth. Also, there is opportunity to experiment and develop more software for amateur use on this platform.&lt;/p&gt;
+&lt;p&gt;Linking to the amateur radio NXDN network is achieved in a few different ways. Two software programs exist for linking multiple repeaters together. The first is NXREF, written by Alan, W7QO. This program supports a talkgroup (65000) which is used as a “worldwide” group. The second program NXCore, is written by Bob, N1XDN, and allows for multiple talkgroups. Multiple groups help in situations where there are many repeaters covering a smaller area, which helps with spectral efficiency. For example, we use talkgroup 9001 as our “Connecticut only” group, which will allow for local conversations over several repeaters in a state without causing traffic on the entire network. NXREF is compiled for Raspberry Pi and has worked on Beaglebone boards in the past. NXCore source is published on Github and should run on any Linux-based system, in addition to Cygwin on a Windows system.&lt;/p&gt;
+&lt;p&gt;Kenwood and Icom both use the NXDN CAI over the air, but their internet linking is different. Both send data packets in a UDP stream, but the data in the packet and the ports are different for each manufacturer. This has led to regions typically choosing one brand of repeater for each to stay consistent and be linkable. Alan, W7QO, maintains a reflector which converts between the Icom and Kenwood protocols, tying the Kenwood and Icom repeaters together, so that every repeater at least has access to talkgroup 65000.&lt;/p&gt;
+&lt;p&gt;Some real-world benefits we have seen as a group of repeater owners is the extended range from the 6.25khz bandwidth. The stated improvement in range is 30% more coverage than an analog FM channel. The audio quality is considered by many of our users (myself included) to be superior to other modes. NXDN, as with other digital modes, does not get “picket fencing” and other effects that would be heard on analog. Rather, a user in the radio system is either in 100%, a little garbled, or not heard at all. NXDN uses FEC (Forward Error Correction), so slight losses in decoding are hardly noticed or not at all. Another benefit is that in the cramped conditions on our amateur frequencies, especially 2 meters, the 6.25khz bandwidth helps a repeater “fit” into a band plan where it otherwise would not. In an area where there are no 25Khz allocations left for repeater coordination, often a spot can be found. NXDN allows for the use of RAN (Radio Access Number) codes, which work similar to “Color Codes” in DMR and PL tones in analog mode. As such, many of us believe that a whole area could be covered with two or three 6.25khz channels, and RAN codes could be used to keep from keying up a more distant repeater on the same frequency.&lt;/p&gt;
+&lt;p&gt;Drawbacks to adoption of NXDN include: radios are a bit more expensive than other modes, clubs do not seem to have as much interest in deploying a mixed-mode system, and the smaller user base. The radios from Icom and Kenwood are constructed well and are built well, so many in our system don’t mind paying a little more for something very rugged and well tested. The smaller user base does mean that the system is not as active as other digital modes, but many that I’ve talked to on NXDN believe our focus should be on network quality and the strengths that the 6.25khz bandwidth has to offer.&lt;/p&gt;
+&lt;p&gt;To summarize, I believe that NXDN is a niche mode that is not going to attract every ham radio operator, but it does provide a mature platform that is tested in the commercial market. NXDN provides excellent audio quality in a true 6.25khz channel. Equipment has been available for about 8 years now, and the secondary markets, such as Ebay, are starting to have radios for about 25-30% of what it would cost to purchase new. There is a small, but very loyal and committed user base that is interested in this mode long-term. Some websites to visit for more information on NXDN include &lt;a href=&#34;http://www.nxdninfo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxdninfo.com&lt;/a&gt;, &lt;a href=&#34;http://www.nxdnradio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxdnradio.com&lt;/a&gt;, and &lt;a href=&#34;http://www.nxmanager.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nxmanager.net&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NXCM</title>
+      <link>https://rthoelen.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;NXCM is a project designed to link Kenwood and Icom repeaters across the Internet for amateur radio usage.  Currently connecting Kenwood to Kenwood and Icom to Icom is supported.  The software allows for multiple talkgroups to be utilized, and each repeater to choose which talkgroups it is subscribed to.&lt;/p&gt;
+&lt;p&gt;Source code for the project can be found at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kenwood - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Kenwood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Kenwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Icom - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Icom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Icom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

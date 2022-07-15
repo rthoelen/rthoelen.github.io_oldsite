@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading | Robert Thoelen III</title>
+    <link>https://rthoelen.github.io/tag/reading/</link>
+      <atom:link href="https://rthoelen.github.io/tag/reading/index.xml" rel="self" type="application/rss+xml" />
+    <description>reading</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rthoelen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>reading</title>
+      <link>https://rthoelen.github.io/tag/reading/</link>
+    </image>
+    
+    <item>
+      <title>Recommended Readings on Christianity and Science</title>
+      <link>https://rthoelen.github.io/post/recommended-reading/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/post/recommended-reading/</guid>
+      <description>&lt;h2 id=&#34;free-software--digital-issues&#34;&gt;Free Software / Digital Issues&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Free Software, Free Society&lt;/strong&gt;, Richard Stallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Free as in Freedom (2.0)&lt;/strong&gt;, Richard Stallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Future of Ideas&lt;/strong&gt;, Lawrence Lessig&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(VIDEO) Revolution OS&lt;/strong&gt;, produced by Wonderview Productions&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;control-theory--engineering&#34;&gt;Control Theory / Engineering&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Chance and Chaos&lt;/strong&gt;, David Ruelle&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Automatic Control Systems&lt;/strong&gt;, Farid Golnaraghi and Benjamin C. Kuo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Control System Design: An Introduction to State-Space Methods&lt;/strong&gt;, Bernard Friedland&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;radiotransmission-theory&#34;&gt;Radio/Transmission Theory&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;The ARRL Antenna Book&lt;/strong&gt;, American Radio Relay League&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information, Modulation, Transmission, and Noise&lt;/strong&gt;, Mischa Schwartz&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;computer-science--software-engineering&#34;&gt;Computer Science / Software Engineering&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Introduction to Algorithms, Second Edition&lt;/strong&gt;, Thomas H. Kormen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Mythical Man-Month&lt;/strong&gt;, Fred Brooks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Deadline: A Novel about Project Management&lt;/strong&gt;, Tom DeMarco&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Phoenix Project&lt;/strong&gt;, Gene Kim, Kevin Behr, George Spafford&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;historical-fiction&#34;&gt;Historical Fiction&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;A Madman Dreams of Turing Machines&lt;/strong&gt;, Janna Levin&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-classics&#34;&gt;Christianity: Classics&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Pilgrim&amp;rsquo;s Progress&lt;/strong&gt;, John Bunyan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Hiding Place&lt;/strong&gt;, Corrie Ten Boom&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Autobiography of Madame Guyon&lt;/strong&gt;, Jeanne Marie Bouvières de la Mothe Guyon&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Didache&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tortured for Christ&lt;/strong&gt;, Richard Wurmbrand&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Through Gates of Splendor&lt;/strong&gt;, Elizabeth Elliot&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Autobiography of George Muller&lt;/strong&gt;, George Muller&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Areopagitica&lt;/strong&gt;, John Milton&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-science--christian-thought--philosophy&#34;&gt;Christianity: Science / Christian Thought / Philosophy&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;The Scandal of the Evangelical Mind&lt;/strong&gt;, Mark Noll&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jesus Christ and the Life of the Mind&lt;/strong&gt;, Mark Noll&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Mind for God&lt;/strong&gt;, James Emery White&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Universe Next Door&lt;/strong&gt;, James W. Sire&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Creation and Complexity: Interdisciplinary Issues in Science and Religion&lt;/strong&gt;, Christine Ledger and Stephen Pickard&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Putting it All Together&lt;/strong&gt;, Richard H. Bube&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On Mental Education (contained in Experimental Researches in Chemistry and Physics (1859))&lt;/strong&gt;, Michael Faraday&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Letter to the Grand Duchess Christina (1615)&lt;/strong&gt;, Galileo Galilei&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Harmonice Mundi(The Harmony of the World) (1619)&lt;/strong&gt;, Johannes Kepler&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test of Faith(VIDEO), Various Contributors&lt;/strong&gt;, published by WIPF and Stock Publishers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wise Stewards: Philosophical Foundations of Christian Parenting&lt;/strong&gt;, Michael W. Austin&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;christianity-theodicychristian-counselingpastoral-theology&#34;&gt;Christianity: Theodicy/Christian Counseling/Pastoral Theology&lt;/h2&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;When Suffering Persists&lt;/strong&gt;, Frederick Schmidt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;God and Human Suffering&lt;/strong&gt;, Douglas John Hall&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When Bad Things Happen to Good People&lt;/strong&gt;, Harold Kushner&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Little Exercise for Young Theologians&lt;/strong&gt;, Helmut Thielicke&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes That Heal&lt;/strong&gt;, Henry Cloud and John Townsend&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Practical Psychology for Pastors&lt;/strong&gt;, William Miller and Kathleen Jackson&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wise Stewards: Philosophical Foundations of Christian Parenting&lt;/strong&gt;, Michael W. Austin&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

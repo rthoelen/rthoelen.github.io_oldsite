@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Robert Thoelen III</title>
+    <link>https://rthoelen.github.io/project/</link>
+      <atom:link href="https://rthoelen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rthoelen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://rthoelen.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>NXCM</title>
+      <link>https://rthoelen.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rthoelen.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;NXCM is a project designed to link Kenwood and Icom repeaters across the Internet for amateur radio usage.  Currently connecting Kenwood to Kenwood and Icom to Icom is supported.  The software allows for multiple talkgroups to be utilized, and each repeater to choose which talkgroups it is subscribed to.&lt;/p&gt;
+&lt;p&gt;Source code for the project can be found at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kenwood - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Kenwood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Kenwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Icom - &lt;a href=&#34;https://github.com/rthoelen/NXCore_Icom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/rthoelen/NXCore_Icom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
